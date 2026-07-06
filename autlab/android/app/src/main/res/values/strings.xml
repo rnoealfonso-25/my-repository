@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AutLab</string>
+    <string name="title_activity_main">AutLab</string>
+    <string name="package_name">cu.autlab.app</string>
+    <string name="custom_url_scheme">cu.autlab.app</string>
+</resources>

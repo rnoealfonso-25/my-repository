@@ -1,0 +1,6 @@
+﻿CREATE TABLE IF NOT EXISTS equipo (
+    id INT NOT NULL AUTO_INCREMENT,
+    descripcion TEXT NOT NULL,
+    imagen VARCHAR(500) NULL,
+    PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
